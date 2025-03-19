@@ -80,7 +80,7 @@ Our mission is to promote sustainable farming practices by automating critical p
 
 1. **Hardware Assembly**:
    - Assemble the robotic arm and attach it to the robot's frame, the parts images:
-   ![Arm first part](images/Arm 01.png)
+   ![Arm first part](Designs/Arm01.png)
 
    - Install the Raspberry Pi and Arduino boards.
    - Connect all sensors and motors according to the circuit diagram.
