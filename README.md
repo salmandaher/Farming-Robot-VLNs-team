@@ -192,4 +192,4 @@ We acknowledge the contributions of our team members and coach, who have been in
 
 ### Contact Us
 
-For more information or to collaborate on this project, please contact us at [your email address](mailto:your.email@example.com).
+For more information or to collaborate on this project, please contact us at [your email address](mailto:salmandaher121@gmial.com).
